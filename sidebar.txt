@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbo:home|Door43 (gbo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbo|d43-gbo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbo/archive/master.zip|d43-gbo.zip]]
+
+**Recent Changes**
+{{changes>ns = gbo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbo|Ethnologue data]]
+
